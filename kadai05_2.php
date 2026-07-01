@@ -2,7 +2,6 @@
 /*
     kadai05_2.php
     Date:2024/10/28
-    Author:IE1A 金島拓矢
 */
 require_once __DIR__ . "/def.php";
 require_once __DIR__ . "/utils.php";

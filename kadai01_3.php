@@ -2,7 +2,6 @@
 /*
     kadai01_3.php
     Date:2024/09/30
-    Author:IE1A 金島拓矢
 */
     $num = 1;
     $word = '1';

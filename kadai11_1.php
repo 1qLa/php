@@ -2,7 +2,6 @@
 /*
     kadai11_1.php
     Date:2024/12/09
-    Author:IE1A 金島拓矢
 */
 //必要ファイルがあれば、読み込むこと
 require_once __DIR__ . "/def.php";

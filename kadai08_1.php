@@ -2,7 +2,6 @@
 /*
     kadai08_1.php
     Date:2024/11/18
-    Author:IE1A 金島拓矢
 */
 require_once __DIR__ . "/def.php";
 require_once __DIR__ . "/utils.php";

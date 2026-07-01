@@ -2,7 +2,6 @@
 /*
     kadai04_2.php
     Date:2024/10/14
-    Author:IE1A 金島拓矢
 */
 // TODO：kadai03_resource.phpファイル読み込み
 require_once __DIR__ ."/kadai03_resource.php";

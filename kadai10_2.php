@@ -2,7 +2,6 @@
 /*
     kadai10_2.php
     Date:2024/12/02
-    Author:IE1A 金島拓矢
 */
 
 require_once __DIR__ . "/def.php";

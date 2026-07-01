@@ -2,7 +2,6 @@
 /*
     kadai05_1.php
     Date:2024/10/28
-    Author:IE1A 金島拓矢
 */
 ?>
 <!DOCTYPE html>

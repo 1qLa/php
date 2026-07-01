@@ -2,7 +2,6 @@
 /*
     kadai01_2.php
     Date:2024/09/30
-    Author:IE1A 金島拓矢
 */
 $word = 'ECC太郎';
 

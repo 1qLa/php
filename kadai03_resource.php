@@ -2,7 +2,6 @@
 /*
     kadai03_resource.php
     Date:2024/10/14
-    Author:IE1A 金島拓矢
 */
 
 // 学科一覧

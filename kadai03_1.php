@@ -2,7 +2,6 @@
 /*
     kadai03_1.php
     Date:2024/10/14
-    Author:IE1A 金島拓矢
 */
 
 // TODO：kadai03_resource.phpファイル作成し、読み込み
